@@ -16,20 +16,20 @@ For more information, please refer to the documentation on the CDS and on the EF
 
 *Journal papers*
 
-    - Vitolo, C., Di Giuseppe, F., Krzeminski, B. and San-Miguel-Ayanz, J., 2019. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Scientific data, 6, p.190032.
+  - Vitolo, C., Di Giuseppe, F., Krzeminski, B. and San-Miguel-Ayanz, J., 2019. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Scientific data, 6, p.190032.
 
-    - Vitolo, Claudia, Francesca Di Giuseppe, and Mirko D’Andrea. Caliver: An r package for calibration and verification of forest fire gridded model outputs. PLOS ONE, 13(1):1–18, 01 2018
+  - Vitolo, Claudia, Francesca Di Giuseppe, and Mirko D’Andrea. Caliver: An r package for calibration and verification of forest fire gridded model outputs. PLOS ONE, 13(1):1–18, 01 2018
 
-    - Di Giuseppe, F., Pappenberger, F., Wetterhall, F., Krzeminski, B., Camia, A., Libertá, G. and San Miguel, J., 2016. The potential predictability of fire danger provided by numerical weather prediction. Journal of Applied Meteorology and Climatology, 55(11), pp.2469-2491.
+  - Di Giuseppe, F., Pappenberger, F., Wetterhall, F., Krzeminski, B., Camia, A., Libertá, G. and San Miguel, J., 2016. The potential predictability of fire danger provided by numerical weather prediction. Journal of Applied Meteorology and Climatology, 55(11), pp.2469-2491.
 
 *Newsletter articles*
 
-    - ECMWF forecasts support Portugal wildfire response (Number 153 - Autumn - October 2017) https://www.ecmwf.int/en/newsletter/153/news/ecmwf-forecasts-support-portugal-wildfire-response
+  - ECMWF forecasts support Portugal wildfire response (Number 153 - Autumn - October 2017) https://www.ecmwf.int/en/newsletter/153/news/ecmwf-forecasts-support-portugal-wildfire-response
 
-    - Devastating wildfires in Chile in January 2017 (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/devastating-wildfires-chile-january-2017
+  - Devastating wildfires in Chile in January 2017 (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/devastating-wildfires-chile-january-2017
 
-    - Copernicus fire danger forecast goes online (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/copernicus-fire-danger-forecast-goes-online
+  - Copernicus fire danger forecast goes online (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/copernicus-fire-danger-forecast-goes-online
 
 *Software tools*
 
-    - GEFF model source code (Fortran): https://git.ecmwf.int/projects/CEMSF/repos/geff/browse
+  - GEFF model source code (Fortran): https://git.ecmwf.int/projects/CEMSF/repos/geff/browse
