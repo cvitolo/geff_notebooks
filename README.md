@@ -1,5 +1,5 @@
 # Global ECMWF Fire Forecasting (GEFF) system - notebooks
-Jupyter notebooks to post-process fire danger (reanalysis and forecasts), see slide deck with exercises here: https://docs.google.com/presentation/d/1ajJ4YcNIY-L2KXMBeEuHO9bxS15gs2ae6TGaf0Ox0wE/edit?usp=sharing.
+> Jupyter notebooks to explore, visualise and post-process fire danger reanalysis and forecast data from the GEFF modelling system.
 
 The European Centre for Medium-Range Weather Forecasts (ECMWF) produces daily fire danger forecasts and reanalysis products from the Global ECMWF Fire Forecast (GEFF) model. Reanalysis (and soon seasonal forecasts) is available through the Copernicus Climate Data Store (CDS) while the medium-range real-time forecast is available through the EFFIS and GWIS platforms, which give access to timely fire danger information at a pan-European and global scale, respectively. Thirty-eight local and national authorities across Europe are part of the EFFIS network and have been relying on GEFF outputs for the early identification of regions prone to fire events as a result of persistent drought conditions.
 
@@ -11,35 +11,25 @@ GEFF produces fire danger indices based on the Canadian Fire Weather index as we
 
 For more information, please refer to the documentation on the CDS and on the EFFIS website.
 
-Software tools
 
+**References**
 
-GEFF MODEL SOURCE CODE
-https://git.ecmwf.int/projects/CEMSF/repos/geff/browse
+*Journal papers*
 
-DATA PROCESSING
-For Python3 users: collection of Jupyter notebooks: https://github.com/cvitolo/GEFF_notebooks
-For R users: the R package “caliver” (open source under APACHE-2 license): https://github.com/ecmwf/caliver
+    - Vitolo, C., Di Giuseppe, F., Krzeminski, B. and San-Miguel-Ayanz, J., 2019. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Scientific data, 6, p.190032.
 
+    - Vitolo, Claudia, Francesca Di Giuseppe, and Mirko D’Andrea. Caliver: An r package for calibration and verification of forest fire gridded model outputs. PLOS ONE, 13(1):1–18, 01 2018
 
-References
+    - Di Giuseppe, F., Pappenberger, F., Wetterhall, F., Krzeminski, B., Camia, A., Libertá, G. and San Miguel, J., 2016. The potential predictability of fire danger provided by numerical weather prediction. Journal of Applied Meteorology and Climatology, 55(11), pp.2469-2491.
 
+*Newsletter articles*
 
-Journal papers
+    - ECMWF forecasts support Portugal wildfire response (Number 153 - Autumn - October 2017) https://www.ecmwf.int/en/newsletter/153/news/ecmwf-forecasts-support-portugal-wildfire-response
 
-Vitolo, C., Di Giuseppe, F., Krzeminski, B. and San-Miguel-Ayanz, J., 2019. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Scientific data, 6, p.190032.
+    - Devastating wildfires in Chile in January 2017 (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/devastating-wildfires-chile-january-2017
 
-Vitolo, Claudia, Francesca Di Giuseppe, and Mirko D’Andrea. Caliver: An r package for calibration and verification of forest fire gridded model outputs. PLOS ONE, 13(1):1–18, 01 2018
+    - Copernicus fire danger forecast goes online (Number 151 - Spring - April 2017) https://www.ecmwf.int/en/newsletter/151/news/copernicus-fire-danger-forecast-goes-online
 
-Di Giuseppe, F., Pappenberger, F., Wetterhall, F., Krzeminski, B., Camia, A., Libertá, G. and San Miguel, J., 2016. The potential predictability of fire danger provided by numerical weather prediction. Journal of Applied Meteorology and Climatology, 55(11), pp.2469-2491.
+*Software tools*
 
-Newsletter articles
-
-ECMWF forecasts support Portugal wildfire response (Number 153 - Autumn - October 2017)
-https://www.ecmwf.int/en/newsletter/153/news/ecmwf-forecasts-support-portugal-wildfire-response
-
-Devastating wildfires in Chile in January 2017 (Number 151 - Spring - April 2017)
-https://www.ecmwf.int/en/newsletter/151/news/devastating-wildfires-chile-january-2017
-
-Copernicus fire danger forecast goes online (Number 151 - Spring - April 2017)
-https://www.ecmwf.int/en/newsletter/151/news/copernicus-fire-danger-forecast-goes-online
+    - GEFF model source code (Fortran): https://git.ecmwf.int/projects/CEMSF/repos/geff/browse
