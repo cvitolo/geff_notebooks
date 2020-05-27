@@ -35,3 +35,5 @@ For more information, please refer to the documentation on the CDS and on the EF
 *Software tools*
 
   - GEFF model source code (Fortran): https://git.ecmwf.int/projects/CEMSF/repos/geff/browse
+  - Vitolo C, Di Giuseppe F, D’Andrea M (2018) Caliver: An R package for CALIbration and VERification of forest fire gridded model outputs. PLOS ONE 13(1): e0189419. https://doi.org/10.1371/journal.pone.0189419
+  - Claudia Vitolo, & Francesca Di Giuseppe. (2020, May 27). cvitolo/geff_notebooks: geff_notebooks v0.1 (Version v0.1). Zenodo. http://doi.org/10.5281/zenodo.3859592
