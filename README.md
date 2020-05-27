@@ -1,6 +1,8 @@
 # Global ECMWF Fire Forecasting (GEFF) system - notebooks
 > Jupyter notebooks to explore, visualise and post-process fire danger reanalysis and forecast data from the GEFF modelling system.
 
+[![DOI](https://zenodo.org/badge/167970290.svg)](https://zenodo.org/badge/latestdoi/167970290)
+
 The European Centre for Medium-Range Weather Forecasts (ECMWF) produces daily fire danger forecasts and reanalysis products from the Global ECMWF Fire Forecast (GEFF) model. Reanalysis (and soon seasonal forecasts) is available through the Copernicus Climate Data Store (CDS) while the medium-range real-time forecast is available through the EFFIS and GWIS platforms, which give access to timely fire danger information at a pan-European and global scale, respectively. Thirty-eight local and national authorities across Europe are part of the EFFIS network and have been relying on GEFF outputs for the early identification of regions prone to fire events as a result of persistent drought conditions.
 
 GEFF-reanalysis provides historical records of global fire danger conditions from 1980 to the present day and it is made of four types of products: (i) deterministic model outputs (called simply 'reanalysis' on the CDS), (ii) probabilistic model outputs (made of 10 ensemble members), (iii) ensemble mean and (iv) ensemble spread. It is updated as soon as new ERA-5 data becomes available (~2 months behind real-time). 
