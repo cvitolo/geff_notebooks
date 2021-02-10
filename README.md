@@ -18,9 +18,11 @@ For more information, please refer to the documentation on the CDS and on the EF
 
 *Journal papers*
 
-  - Vitolo, C., Di Giuseppe, F., Krzeminski, B. and San-Miguel-Ayanz, J., 2019. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Scientific data, 6, p.190032.
+  - Vitolo, C., Di Giuseppe, F., Barnard, C. et al. ERA5-based global meteorological wildfire danger maps. Sci Data 7, 216 (2020). https://doi.org/10.1038/s41597-020-0554-z
+  
+  - Vitolo, C., Di Giuseppe, F., Krzeminski, B. et al. A 1980–2018 global fire danger re-analysis dataset for the Canadian Fire Weather Indices. Sci Data 6, 190032 (2019). https://doi.org/10.1038/sdata.2019.32
 
-  - Vitolo, Claudia, Francesca Di Giuseppe, and Mirko D’Andrea. Caliver: An r package for calibration and verification of forest fire gridded model outputs. PLOS ONE, 13(1):1–18, 01 2018
+  - Vitolo C, Di Giuseppe F, D’Andrea M (2018) Caliver: An R package for CALIbration and VERification of forest fire gridded model outputs. PLOS ONE 13(1): e0189419. https://doi.org/10.1371/journal.pone.0189419
 
   - Di Giuseppe, F., Pappenberger, F., Wetterhall, F., Krzeminski, B., Camia, A., Libertá, G. and San Miguel, J., 2016. The potential predictability of fire danger provided by numerical weather prediction. Journal of Applied Meteorology and Climatology, 55(11), pp.2469-2491.
 
